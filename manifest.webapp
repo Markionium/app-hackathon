@@ -1,0 +1,19 @@
+{
+    "version":"0.0.1",
+    "name":"DHIS2 Hackathon",
+    "description":"My hackathon app",
+    "icons":{
+        "48":"images/icon.png"
+    },
+    "developer":{
+        "url":"",
+        "name":"Mark Polak"
+    },
+    "launch_path":"index.html",
+    "default_locale":"en",
+    "activities":{
+        "dhis":{
+            "href":"*"
+        }
+    }
+}

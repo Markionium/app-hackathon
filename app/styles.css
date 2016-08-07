@@ -1,0 +1,19 @@
+.card-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.emoji {
+    cursor: pointer;
+    font-size: 2rem;
+    line-height: 2rem;
+    padding: .25rem;
+}
+
+.emojis {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+    width: 100%;
+    margin: 0;
+}
